@@ -11,9 +11,6 @@ Features
 - 5 levels could be easy icreased
 
 
-Contributers
-----------
-- 
 Support
 -------
 
