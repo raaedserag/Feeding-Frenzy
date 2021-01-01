@@ -10,13 +10,6 @@ Features
 - Simple game
 - 5 levels could be easy icreased
 
-
-Support
--------
-
-If you are having issues, please let us know.
-We have a mailing list located at: raaedserag@yahoo.com
-
 License
 -------
 
